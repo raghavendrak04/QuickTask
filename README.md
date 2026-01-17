@@ -718,7 +718,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@raghavendrak04](https://github.com/yourusername)
+- GitHub: [@raghavendrak04](https://github.com/raghavendrak04)
 - Email: Kurapatiraghavendra@gmail.com
 
 ---
