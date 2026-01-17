@@ -718,8 +718,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@raghavendrak04](https://github.com/yourusername)
+- Email: Kurapatiraghavendra@gmail.com
 
 ---
 
@@ -734,7 +734,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ using MERN Stack + Python**
+**Built with QuickTask using MERN Stack + Python**
 
 ⭐ Star this repo if you found it helpful!
 
