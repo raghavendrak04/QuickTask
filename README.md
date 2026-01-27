@@ -708,6 +708,10 @@ lsof -ti:3001 | xargs kill -9
 - Ensure MongoDB connection string points to Atlas
 
 ---
+## Project Srceenshorts
+
+<img width="1919" height="963" alt="Screenshot 2026-01-17 233522" src="https://github.com/user-attachments/assets/e2602a76-c4f4-4bcc-9236-9ee6ceec08f9" />
+<img width="1919" height="955" alt="Screenshot 2026-01-17 233549" src="https://github.com/user-attachments/assets/7b17b879-2596-48b6-b3b6-b89b5498661b" />
 
 ## 📄 License
 
@@ -718,8 +722,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@raghavendrak04](https://github.com/raghavendrak04)
+- Email: Kurapatiraghavendra@gmail.com
 
 ---
 
@@ -734,7 +738,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ using MERN Stack + Python**
+**Built with QuickTask using MERN Stack + Python**
 
 ⭐ Star this repo if you found it helpful!
 
